@@ -3,7 +3,7 @@
 You have a string of characters, you need to print out the number of occurances of each character
 
 For e.g.
-
+```
 str = "abracadabra"
 
 app = Application.new(str)
@@ -18,5 +18,5 @@ app.run
   ["d", 1],
   ["r", 2]
 ]
-
+```
 
