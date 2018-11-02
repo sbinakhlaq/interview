@@ -7,6 +7,8 @@ For e.g.
 str = "abracadabra"
 
 app = Application.new(str)
+
+
 app.run
 
 [
